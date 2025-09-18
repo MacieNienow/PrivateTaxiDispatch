@@ -74,7 +74,7 @@ The contract is deployed on Ethereum-compatible networks and provides the follow
 
 ## 🎥 Demo & Screenshots
 
-### Video Demonstration
+### PrivateTaxiDispatch.mp4
 Experience the full functionality of the Private Taxi Dispatch system through our comprehensive demo video, showcasing:
 - Driver registration process
 - Anonymous location updates
@@ -82,7 +82,7 @@ Experience the full functionality of the Private Taxi Dispatch system through ou
 - Encrypted offer management
 - Secure ride completion
 
-### On-Chain Transaction Screenshots
+### PrivateTaxiDispatch.png
 View real blockchain transactions demonstrating:
 - Driver registration confirmations
 - Encrypted data submissions
